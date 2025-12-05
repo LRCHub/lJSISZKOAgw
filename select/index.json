@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "soFt-dRink",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-05T12:23:17.750492Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "soFt-dRink",
+      "artist": "Mrs. Green Apple",
+      "has_synced": true,
+      "path": "select/01_soFt-dRink_Mrs._Green_Apple.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Soft Drink",
+      "artist": "Cherry Glazerr",
+      "has_synced": true,
+      "path": "select/02_Soft_Drink_Cherry_Glazerr.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "soFt-dRink - Softdrink",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/03_soFt-dRink_-_Softdrink_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DR PEPPER IS THE OLDEST MAJOR SOFT DRINK IN AMERICA",
+      "artist": "xaev",
+      "has_synced": false,
+      "path": "select/04_DR_PEPPER_IS_THE_OLDEST_MAJOR_SOFT_DRINK_IN_AMERICA_xaev.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "soFt-dRink",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_soFt-dRink_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
